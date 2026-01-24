@@ -10,7 +10,7 @@ project = "Home"
 copyright = '2026, Seyon Shanthan'
 author = 'Seyon Shanthan'
 release = '0.1'
-
+#Yooo
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
