@@ -1,5 +1,5 @@
 =================================
-   Fun Course & Personal Projects
+    Course & Personal Projects
 =================================
 
 About
