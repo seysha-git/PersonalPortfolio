@@ -33,4 +33,4 @@ This website is dedicated to **course projects** and fun **personal projects**.
 
 .. note::
 
-   Not updated
+   Updated
