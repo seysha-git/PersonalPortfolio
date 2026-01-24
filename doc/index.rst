@@ -1,14 +1,36 @@
-.. Example documentation master file, created by
-   sphinx-quickstart on Sat Sep 23 20:35:12 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+=================================
+   Fun Course & Personal Projects
+=================================
 
-Welcome to Example's documentation!
-===================================
+About
+======
+Engineering cybernetics can roughly be divided into :doc:`Control Theory <control_theory/index>` and 
+everything else that makes control theory work: :doc:`the embedded systems and instrumentation <embedded_systems_and_instrumentation/index>`.
+This website is dedicated to **course projects** and fun **personal projects**. 
+
+|
+
+
+
+
+
+|
+
+.. image:: https://commons.wikimedia.org/wiki/Special:FilePath/Closed_Control_Loop.svg
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
 
-   some-feature.md
-   another-feature.md
+   game_development/index
+   control_theory/index
+   embedded_systems_and_instrumentation/index   
+
+
+
+
+
+.. note::
+
+   Not updated
