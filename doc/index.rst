@@ -6,7 +6,7 @@ About
 ========================
 Engineering cybernetics can roughly be divided into :doc:`Control Theory <control_theory/index>` and 
 everything else that makes control theory work: :doc:`the embedded systems and instrumentation <embedded_systems_and_instrumentation/index>`.
-This website is dedicated to cybernetics **course projects** and fun **personal projects**. 
+This website is about engineering cybernetics **course projects** and other fun **personal projects**. 
 
 |
 
