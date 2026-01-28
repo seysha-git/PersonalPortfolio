@@ -10,11 +10,12 @@ project = "Home"
 copyright = '2026, Seyon Shanthan'
 author = 'Seyon Shanthan'
 release = '0.1'
-#Yooo
+
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = []
+
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -25,8 +26,8 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'alabaster'
-html_static_path = ['_static']
-#hi
+html_static_path = ['_static', "video"]
+
 # EPUB options
 epub_show_urls = 'footnote'
 # Add any Sphinx extension module names here, as strings. They can be
@@ -34,6 +35,7 @@ epub_show_urls = 'footnote'
 # ones.
 extensions = [
     'sphinx.ext.duration',
+    'sphinxcontrib.video'
 ]
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
