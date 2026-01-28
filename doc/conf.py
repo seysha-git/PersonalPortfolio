@@ -34,7 +34,7 @@ epub_show_urls = 'footnote'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.duration',
+    #'sphinx.ext.duration',
     'sphinxcontrib.video'
 ]
 
