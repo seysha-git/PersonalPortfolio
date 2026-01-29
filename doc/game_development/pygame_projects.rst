@@ -10,7 +10,7 @@ Trees grow slowly, lightning can ignite a tree, and the fire spreads to neighbor
 My solution for exercise 9 from the `Spring exam of 2025 Information Technology 2 <https://kandidat.udir.no/epsmateriell/eksamen?fagkode=rea3049-cs&malform=nn-no&semester=v&ar=2025&eksamensdeltype=eksamen>`_.
 
 
-.. video:: ../video/animal_simulation.mp4 
+.. images:: ../images/bilde1.png 
    :width: 600
 
 Manic Mansion
