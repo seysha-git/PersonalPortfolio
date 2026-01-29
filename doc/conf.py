@@ -34,10 +34,9 @@ epub_show_urls = 'footnote'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinxcontrib.video',
-    # other extensions
+    'sphinx.ext.duration',
+    'sphinxcontrib.video'
 ]
-
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
